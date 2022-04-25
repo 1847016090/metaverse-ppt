@@ -50,37 +50,53 @@ plugins:
 
 # 那么倒是什么是元宇宙？ {.text-landing.text-shadow}
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/bd39574c6e634a5d824547d63a384872~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon1.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/93f6cfaa64304624bba1f5c16d10ab7e~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon2.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/738e15e4e585446aaa61dbc06ab9244e~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon3.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/df87845e752a4d9aa41c5ab2ab178865~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon4.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4267d6ffe6e546ad8bed31c88c7741c1~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon5.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/96a2f9f3b8d74e16bbd70697d28b0c2b~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon6.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/36b0eee3a8d843c4b7ff040f8f75a0f3~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon7.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0f6dd42421d247249c9b2619e99e8940~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon8.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/27f9557b3c964be8bfa3b9c31fe420d3~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon9.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/084036bbd7df43ca810abc033a8e3cfc~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon10.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1679e5ad37a74b568546e23fed407ebb~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon11.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0d4bfa23ee60427aacc053684f7780f2~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon12.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/356c606a63af44fdacfc330b450864e8~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon13.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9928129447f34edba4f1bfabca6b0c22~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon14.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a3912fe44d64d17aad3e974aa64713a~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon15.png .size-80.aligncenter)
 
-<slide class=" aligncenter" image="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d15e359480014a7293c6724c42a110b2~tplv-k3u1fbpfcp-zoom-in-crop-mark:1304:0:0:0.awebp .dark">
+<slide class="bg-black-blue aligncenter" image=".dark">
+!![](./img//cartoon16.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark">
 
