@@ -51,52 +51,62 @@ plugins:
 # 那么倒是什么是元宇宙？ {.text-landing.text-shadow}
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon1.png .size-80.aligncenter)
+!![](./img/cartoon1.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon2.png .size-80.aligncenter)
+!![](./img/cartoon2.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon3.png .size-80.aligncenter)
+!![](./img/cartoon3.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon4.png .size-80.aligncenter)
+!![](./img/cartoon4.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon5.png .size-80.aligncenter)
+!![](./img/cartoon5.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon6.png .size-80.aligncenter)
+!![](./img/cartoon6.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon7.png .size-80.aligncenter)
+!![](./img/cartoon7.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon8.png .size-80.aligncenter)
+!![](./img/cartoon8.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon9.png .size-80.aligncenter)
+!![](./img/cartoon9.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon10.png .size-80.aligncenter)
+!![](./img/cartoon10.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon11.png .size-80.aligncenter)
+!![](./img/cartoon11.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon12.png .size-80.aligncenter)
+!![](./img/cartoon12.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon13.png .size-80.aligncenter)
+!![](./img/cartoon13.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon14.png .size-80.aligncenter)
+!![](./img/cartoon14.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon15.png .size-80.aligncenter)
+!![](./img/cartoon15.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img//cartoon16.png .size-80.aligncenter)
+!![](./img/cartoon16.png .size-80.aligncenter)
+
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
+
+!![](./img/metaImg221.png .size-50.alignleft)
+
+# 什么是更高的自由度呢？ {.slide-left}
+
+##  拿大型网络游戏《魔兽世界》来举例，你在里面可以当一名法师，也可以当一名猎人，但你要是想当一名“星际战士”，那对不起，游戏里没设计这个职业。{.slide-left.text-intro}
+
+## 在元宇宙当中，整个虚拟世界是大家共建的。每一个用户不但可以参与其中，更可以改造世界，创造出全新的元素和规则。{.slide-left.text-intro}
 
 <slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark">
 
