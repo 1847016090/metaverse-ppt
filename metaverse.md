@@ -12,39 +12,56 @@ prismTheme: twilight
 
 [:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost}
 
-<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
+<slide class="bg-black-blue aligncenter" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
+
+# 目录 {.text-landing.text-shadow}
+
+# 元宇宙概念{.text-intro}
+
+# 什么是元宇宙 {.text-intro}
+
+# 元宇宙的发展历程{.text-intro}
+
+# 相关书籍推荐 {.text-intro}
+
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
 
 !![](./img/metaImg22.png .size-50.alignright)
 
 # 元宇宙概念 {.slide-left}
 
-# 所谓“元宇宙”的概念，出自美国 1992 年的科幻小说《雪崩》，随后包含了构建一个区别于现实生活的半虚拟空间，供用户在其中以现实生活中类似的沟通和生活方式进行互动。比较形象的例子有电影《头号玩家》、《失控玩家》里的场景。{.slide-left.text-intro}
-
 # 如果你是一个投资者，浏览去年最火热的创投项目，以及涨幅惊动监管层的股票，你可能会发现它们共同的联系：元宇宙概念。{.slide-left.text-intro}
 
-# 如果让扎克伯格、黄仁勋、马化腾等一众科技大佬讨论未来互联网的发展方向，他们可能会告诉你同一个词：元宇宙{.slide-right.text-intro}
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
 
-<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
-
-!![](./img/metaImg31.png .size-50.alignleft)
+!![](./img/metaImg31.png .size-50.alignright)
 
 # 元宇宙第一股 Roblox {.slide-left}
 
 # 2021 年 3 月，美国游戏公司 Roblox 头顶“元宇宙第一股”的光环成功上市，市值迅速翻了 10 倍。{.slide-left.text-intro}
 
-# Roblox 在招股书里给元宇宙产品定义了 8 个属性：身份、朋友、沉浸感、低延迟、多元化、随地、经济系统和文明。{.slide-left.text-intro}
+# Roblox 在招股书里给元宇宙产品定义了 8 个属性：{.slide-left.text-intro}
 
-<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
+- 身份：拥有一个虚拟身份，无论与现实身份有没有相关性。
+- 朋友：在元宇宙当中拥有朋友，可以社交，无论在现实中是否认识。
+- 沉浸感：能够沉浸在元宇宙的体验当中，忽略其他的一切。
+- 低延迟：元宇宙中的一切都是同步发生的，没有异步性或延迟性。
+- 多元化：元宇宙提供多种丰富内容，包括玩法、道具、美术素材等。
+- 随地：可以使用任何设备登录元宇宙，随时随地沉浸其中。
+- 经济系统：与任何复杂的大型游戏一样，元宇宙应该有自己的经济系统。
+- 文明：元宇宙应该是一种虚拟的文明。
+
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
 
 !![](./img/metaImg41.jpeg .size-50.alignright)
 
-# Facebook 改名 Meta，转型元宇宙，元宇宙概念股疯狂拉伸 {.slide-left}
+# Facebook 转型元宇宙 {.slide-left}
 
 # 当地 2021 年 10 月 28 日 Facebook 首席执行官 马克扎克伯格宣布：{.slide-left.text-intro}
 
 # 把现有的 Facebook 以及公司旗下的 Instagram 等多个社交媒体、实时通讯平台进行逐步整合，打造一个全新的 Meta 平台。{.slide-left.text-intro}
 
-<slide class="bg-black-blue aligncenter" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .anim">
+<slide class="bg-black-blue aligncenter" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
 
 # 那么倒是什么是元宇宙？ {.text-landing.text-shadow}
 
@@ -102,9 +119,9 @@ prismTheme: twilight
 <slide class="bg-black-blue aligncenter" image=".dark">
 !![](./img/cartoon16.png .size-80.aligncenter)
 
-<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
 
-!![](./img/metaImg221.png .size-50.alignleft)
+!![](./img/metaImg221.png .size-50.alignright)
 
 # 什么是更高的自由度呢？ {.slide-left}
 
@@ -120,9 +137,9 @@ prismTheme: twilight
 <slide class="bg-black-blue aligncenter" image=".dark">
 !![](./img/cartoon18.png .size-80.aligncenter)
 
-<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
 
-!![](./img/metaImg242.png .size-50.alignleft)
+!![](./img/metaImg242.png .size-50.alignright)
 
 # 元宇宙的经济系统 {.slide-left}
 
@@ -135,15 +152,12 @@ prismTheme: twilight
 ## 稀缺与稳定，是元宇宙独立经济系统的基石。{.slide-left.text-intro}
 
 <slide class="bg-black-blue aligncenter" image=".dark">
-!![](./img/cartoon19.png .size-80.aligncenter)
-
-<slide class="bg-black-blue aligncenter" image=".dark">
 !![](./img/cartoon20.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
 !![](./img/cartoon21.png .size-80.aligncenter)
 
-<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .light">
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
 
 !![](./img/metaImg291.png .size-50.alignright)
 
@@ -185,7 +199,7 @@ prismTheme: twilight
 <slide class="bg-black-blue aligncenter" image=".dark">
 !![](./img/cartoon29.png .size-80.aligncenter)
 
-<slide class="bg-black-blue aligncenter" image=".dark">
+<slide class="bg-black-blue aligncenter" image=".dark"> 
 !![](./img/cartoon30.png .size-80.aligncenter)
 
 <slide class="bg-black-blue aligncenter" image=".dark">
@@ -194,14 +208,54 @@ prismTheme: twilight
 <slide class="bg-black-blue aligncenter" image=".dark">
 !![](./img/cartoon32.png .size-80.aligncenter)
 
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
+
+!![](./img/metaImg411.png .size-50.alignright)
+
+# 元宇宙发展历程 {.slide-left}
+
+- 元宇宙 1.0 互联网发展{.slide-left.text-intro}
+
+- 元宇宙 2.0 VR，AR 等{.slide-left.text-intro}
+
+- 元宇宙 3.0 建立一个和现实世界平行的虚拟世界{.slide-right.text-intro}
+
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
+
+!![](./img/metaImg421.png .size-50.alignright)
+
+# 元宇宙 1.0 互联网发展 {.slide-left}
+
+# 元宇宙 1.0 就是互联网的发展，互联网，指的是网络与网络之间所串连成的庞大网络，这些网络以一组通用的协议相连，形成逻辑上的单一巨大国际网络，始于 1969 年美国的阿帕网。{.slide-right.text-intro}
+
+# 互联网的高速发展与区域互通强大规模形成了元宇宙的基础，我们平时对着屏幕玩的虚拟游戏就是元宇宙一代，但这种方式不够让人真正投入其中。{.slide-right.text-intro}
+
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
+
+!![](./img/metaImg431.png .size-50.alignright)
+
+# 元宇宙 2.0 VR，AR {.slide-left}
+
+# 元宇宙 1.0 就是万物互联的强大网络基础，但这远远不够，于是元宇宙 2.0 VR 出现了。{.slide-right.text-intro}
+
+# 人们戴上立体眼镜、数据手套等设备，面对一种三维的模拟现实，似乎置身于一个具有三维的视觉、听觉、触觉甚至嗅觉的感觉世界，并且人与这个环境可以通过人的自然技能和相应的设施进行信息交互。{.slide-right.text-intro}
+
+<slide class="bg-black-blue" image="https://pic2.zhimg.com/v2-bbe6471a977e93117a56de11cdc032ec_1440w.jpg?source=172ae18b .dark">
+
+!![](./img/metaImg441.png .size-50.alignright)
+
+# 元宇宙 3.0 建立一个和现实世界平行的虚拟世界 {.slide-left}
+
+# 最近炒的火热的就是这个 3.0 版本了，它打算打造一个和现实世界完全平行的真实世界，正如刚刚《头号玩家》和《黑客帝国》所看到的。将虚拟现实和真实世界联系在一起，在虚拟世界中你会获得一个全新的身份。{.slide-right.text-intro}
+
 <slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark">
 
-# 邓丽君 & 元宇宙 & 虚拟人概念
+# 书籍推荐 {.text-landing.text-shadow}
+
+# 《元宇宙》《元宇宙通行证》 易欢欢 {.slide-left}
+
+[试玩元宇宙(476732)](https://dem1.utown.io/){.slide-left}
 
 <slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark">
 
-# 元宇宙相关的产物
-
-<slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark">
-
-# ThreeJS 入门
+# 结束
